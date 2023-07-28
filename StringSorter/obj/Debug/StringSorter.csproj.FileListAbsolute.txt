@@ -1,0 +1,7 @@
+C:\Projects\StringSorter\StringSorter\StringSorter\bin\Debug\StringSorter.exe
+C:\Projects\StringSorter\StringSorter\StringSorter\bin\Debug\StringSorter.pdb
+C:\Projects\StringSorter\StringSorter\StringSorter\obj\Debug\StringSorter.csproj.AssemblyReference.cache
+C:\Projects\StringSorter\StringSorter\StringSorter\obj\Debug\StringSorter.csproj.SuggestedBindingRedirects.cache
+C:\Projects\StringSorter\StringSorter\StringSorter\obj\Debug\StringSorter.csproj.CoreCompileInputs.cache
+C:\Projects\StringSorter\StringSorter\StringSorter\obj\Debug\StringSorter.exe
+C:\Projects\StringSorter\StringSorter\StringSorter\obj\Debug\StringSorter.pdb
